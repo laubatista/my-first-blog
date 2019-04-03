@@ -1,3 +1,6 @@
+
+''' O manage.py é o script que ajuda na gestão do site, é através dele que o servidor web é iniciado no computador
+    sem precisar instalar nada.  '''
 #!/usr/bin/env python
 import os
 import sys
